@@ -1,16 +1,51 @@
-- Overview: A modern, user-friendly web application that allows users to instantly calculate their Body Mass Index (BMI) by entering weight and height. The app provides a clear health classification based on the calculated BMI.
+🎯 JavaScript IMC Calculator
+📝 Description
+A personal project to learn JavaScript, this app calculates BMI (weight / height in meters²) and displays health classification. Built to explore coding, it tackles input validation and UI design challenges.
+🎯 Motivation
 
-- Features: Easy input for weight (kg) and height (cm). Accurate BMI calculation using the formula: weight / (height in meters)². Instant BMI classification (such as Normal, Overweight, Obese). Modern and responsive design with smooth animations. Smart error handling for invalid entries.
+Learn JavaScript fundamentals.
+Practice DOM manipulation and event handling.
+Solve the problem of BMI calculation for self-education.
 
-- Tech Stack: Uses HTML5 for structure, JavaScript for core logic, CSS3 for visuals, and Google Fonts (Open Sans) for typography.
+🌟 What I Learned
 
-- Getting Started: Clone the repository and open index.html in your preferred browser.
+Basic JavaScript logic and functions.
+Handling user input and errors.
+CSS styling for better presentation.
 
-- How to Use: Enter your weight in kilograms and your height in centimeters. Click the "Enviar" button to see your BMI and health status instantly.
+🚀 Features
 
-- Project Structure: 
-  - index.html: Application layout.
-  - main.js: Contains BMI logic and dynamic updates.
-  - style.css: Custom styles and animations.
+Input for weight (kg) and height (cm).
+Accurate BMI calculation.
+Instant classification (e.g., Normal, Overweight).
+Error handling for invalid inputs.
 
-- Highlights: Height input is automatically converted from centimeters to meters. Invalid inputs trigger clear error messages. Valid results are highlighted in green, while errors appear in red.
+🛠️ Tech Stack
+
+HTML5: Structure
+JavaScript: Logic
+CSS3: Styling
+Google Fonts: Open Sans
+
+📥 Installation
+
+Clone repo: git clone <repo-url>
+Open index.html in a browser.
+
+📋 How to Use
+
+Enter weight in kilograms.
+Enter height in centimeters.
+Click "Enviar" to see BMI and status.
+
+🙌 Credits
+
+Self-taught project.
+Inspired by online coding tutorials.
+
+📜 License
+MIT License - Free to use and modify.
+
+🤝 Contribute
+Fork the repo.
+Submit pull requests with improvements.
