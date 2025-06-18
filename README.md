@@ -1,6 +1,8 @@
 🎯 JavaScript IMC Calculator
+
 📝 Description
 A personal project to learn JavaScript, this app calculates BMI (weight / height in meters²) and displays health classification. Built to explore coding, it tackles input validation and UI design challenges.
+
 🎯 Motivation
 
 Learn JavaScript fundamentals.
