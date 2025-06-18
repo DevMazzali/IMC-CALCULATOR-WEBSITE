@@ -1,8 +1,8 @@
 🌟 IMC Calculator
 📋 Overview
 A sleek, user-friendly web app to calculate your Body Mass Index (BMI) instantly! Input your weight and height, and get your BMI along with a clear health classification.
-✨ Features
 
+✨ Features
 🧮 Easy input for weight (kg) and height (cm)
 📊 Accurate BMI calculation: weight / (height in meters)²
 🏷️ Instant BMI classification (e.g., Normal, Overweight, Obese)
